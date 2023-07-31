@@ -8,8 +8,8 @@ public class Hello {
 
 	public static void main(String[] args) {
 		
-		Hello he=new Hello();
-		he.display();
+		Hello hel=new Hello();
+		hel.display();
 	}
 
 }
